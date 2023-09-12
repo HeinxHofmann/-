@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body {  
+  font-family: Arial, sans-serif;  
+}  
+  
+.grid-container {  
+  display: grid;  
+  grid-template-columns: repeat(2, 1fr); /* 两列 */  
+  grid-gap: 10px;  
+}  
+  
+.grid-item {  
+  background-color: #f4f4f4;  
+  border-radius: 5px;  
+  padding: 20px;  
+  text-align: center;  
+}
+p.fa{position:relative;bottom:5px;right:5px;text-align: center;font-size:xx-large;color:black;font-family: "agency fb";}
+img{width:200px; height:200px; }
+ .black-line {  
+            border-top: 5px solid #000000;  
+            width: 100%;  
+            height: 0;  
+        }  
+h2{align:center;}		
+		
+		
